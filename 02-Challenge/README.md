@@ -34,6 +34,7 @@
     VITE v5.4.11  ready in 1023 ms
 [1]   ➜  Local:   http://localhost:3000/
 
+Backend Website via Render: https://server-forecast.onrender.com
 
 ## Credits
 
